@@ -11,8 +11,8 @@ Clonar el repositorio:
 
 # Capturas de pantalla
 
-![](./capturas/accueil-meteo.png)
+![](capturas/accueil-meteo.png)
 
-![](./capturas/favorites-meteo.png)
+![](capturas/favorites-meteo.png)
 
-![](./capturas/ajout-favoris.png)
+![](capturas/ajout-favoris.png)
