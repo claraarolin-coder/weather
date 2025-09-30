@@ -64,3 +64,5 @@ https://api.open-meteo.com/v1/forecast?latitude=40.4167&longitude=-3.7038&curren
     "temperature_2m_min": [15.2, 14.9, 14.3]
   }
 }
+
+vercel enlace: https://weather-m4n2lty3m-claras-projects-f6cccead.vercel.app/
