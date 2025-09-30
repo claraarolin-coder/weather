@@ -11,8 +11,8 @@ Clonar el repositorio:
 
 # Capturas de pantalla
 
-![](c:\Users\clara\Desktop\accueil meteo.png)
+![](./public/capturas/accueil-meteo.png)
 
-![](c:\Users\clara\Desktop\favorites meteo.png)
+![](./public/capturas/favorites-meteo.png)
 
-![](c:\Users\clara\Desktop\ajout favoris.png)
+![](./public/capturas/ajout-favoris.png)
